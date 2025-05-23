@@ -3,6 +3,7 @@
 This project explores a synthetic banking dataset to uncover patterns in customer behavior, estimated income band, and risk indicators. It involves performing Exploratory Data Analysis (EDA) using Python and building an interactive dashboard in Power BI to communicate key insights effectively.
 
 🛠️ Tools & Technologies
+
 Python: Data cleaning, preprocessing, and EDA using pandas, matplotlib, seaborn
 
 Power BI: Interactive dashboard design for stakeholder presentation
@@ -10,6 +11,7 @@ Power BI: Interactive dashboard design for stakeholder presentation
 Jupyter Notebook: For documenting analysis steps and code
 
 📈 Dashboard Features
+
 Summary statistics of customer income, savings, loans
 
 Visual breakdowns by banking relationship, gender, and institutional advisor
@@ -17,6 +19,7 @@ Visual breakdowns by banking relationship, gender, and institutional advisor
 Bank deposit and loan patterns by occupation and nationality
 
 🧠 Key Insights
+
 Customers who maintain high balances in one account type often hold substantial amount/funds across other accounts as well.
 
 Higher income earners and older individuals often accumulate more savings, retirement funds, and may carry higher credit card balances or loans.
